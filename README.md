@@ -22,7 +22,7 @@ Astazi, din ce in ce mai multi oameni inteleg importanta practicarii sportului i
 
 **3.	Descriere API**
 
--API-ul JavaScript Maps oferă posibilitatea personalizării hărților cu propriul conținut și imagini pentru afișarea pe pagini web și dispozitive mobile. API-ul JavaScript Maps oferă patru tipuri de hărți de bază (roadmap, satellite, hybrid, and terrain) pe care le putem modifica folosind straturi și stiluri, controale și evenimente și diverse servicii și biblioteci.
+- API-ul JavaScript Maps oferă posibilitatea personalizării hărților cu propriul conținut și imagini pentru afișarea pe pagini web și dispozitive mobile. API-ul JavaScript Maps oferă patru tipuri de hărți de bază (roadmap, satellite, hybrid, and terrain) pe care le putem modifica folosind straturi și stiluri, controale și evenimente și diverse servicii și biblioteci.
 
   **Tehnologii folosite:**
   
