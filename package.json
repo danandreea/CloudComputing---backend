@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danandreea/CloudComputing---backend.git"
+    "url": "git+https://github.com/danandreea/CloudComputing-backend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danandreea/CloudComputing---backend/issues"
+    "url": "https://github.com/danandreea/CloudComputing-backend/issues"
   },
-  "homepage": "https://github.com/danandreea/CloudComputing---backend#readme",
+  "homepage": "https://github.com/danandreea/CloudComputing-backend#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
