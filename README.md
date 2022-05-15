@@ -1,10 +1,8 @@
 # CloudComputing---backend
 
-**Proiect - Cloud Computing
-Aplicație pentru rezervări terenuri de tenis**
+**Proiect - Cloud Computing - Aplicație pentru rezervări terenuri de tenis**
 
-**Dan Andreea
-Grupa 1117**
+**Dan Andreea - Grupa 1117**
 
 - Link video: https://youtu.be/Vp-YKBmRPms
 - Link publicare: https://cc-proj-front.herokuapp.com/
